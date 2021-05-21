@@ -59,7 +59,7 @@ export default class Feed extends Component {
               ></Image>
             </View>
             <View style={styles.appTitleTextContainer}>
-              <Text style={styles.appTitleText}>Story Telling App</Text>
+              <Text style={styles.appTitleText}>Storytelling App</Text>
             </View>
           </View>
           <View style={styles.cardContainer}>
